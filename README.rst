@@ -18,3 +18,9 @@ GitHub にレンダリング してもらいます。
 物語はベアン人の女の子パスベルスの旅を追う形で進み、
 特に目標はありません。だらだらと書いてきます。
 
+
+Index of ベルセンド
+--------------------------------------------------------------------------------
+
+* `1 <https://github.com/pasberth/Bellsend/blob/master/source/2012-11-04.rst>`_
+* `2 <https://github.com/pasberth/Bellsend/blob/master/source/2012-12-11.rst>`_
