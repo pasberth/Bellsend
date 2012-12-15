@@ -158,4 +158,7 @@
 | 「ベルスがゲームを愛しているのと同じくらいには、
   わたしはおしゃれを愛しているかな」
 
+* `Next <https://github.com/pasberth/Bellsend/blob/master/source/2012-12-15.rst>`_
+
+
 .. [#a] フィームは1917年11月11日生まれ。

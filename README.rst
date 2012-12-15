@@ -33,3 +33,4 @@ Index of ベルセンド
 * `1 <https://github.com/pasberth/Bellsend/blob/master/source/2012-11-04.rst>`_
 * `2 <https://github.com/pasberth/Bellsend/blob/master/source/2012-12-11.rst>`_
 * `3 <https://github.com/pasberth/Bellsend/blob/master/source/2012-12-14.rst>`_
+* `4 <https://github.com/pasberth/Bellsend/blob/master/source/2012-12-15.rst>`_
