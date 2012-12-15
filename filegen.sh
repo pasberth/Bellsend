@@ -1,6 +1,10 @@
 #!/usr/bin/env sh
 
-FILE=source/$(date +%Y-%m-%d).rst
+ID=$(date +%Y-%m-%d)
+BODYF=source/${ID}_body.rst
+OUTF=source/${ID}.rst
 
-touch $FILE
-echo $FILE was created.
+touch $BODYF
+touch $OUTF
+echo "./build.rb $BODYF > $OUTF" >> build.sh
+echo $ID was created.
