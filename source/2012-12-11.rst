@@ -130,6 +130,3 @@
 | 「うん。そのつもりだったー」
 | 「じゃあ、その予定は取り消しだ。宿に戻って、ゲームでもして遊ぼう」
 | 
-
-
-`Next <https://github.com/pasberth/Bellsend/blob/master/novel/2012-12-14.rst>`_

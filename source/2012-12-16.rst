@@ -218,5 +218,3 @@
 .. [#a] 秋扇皮(しゅうせんかわ)。人造皮革の一種。
         浮遊石によって重さを奪われない性質があり、もっぱら
         浮遊石を持ち運ぶ袋を作るために生産されている。
-
-* `Next <https://github.com/pasberth/Bellsend/blob/master/novel/2012-12-17.rst>`_

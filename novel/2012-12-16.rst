@@ -222,7 +222,6 @@
         浮遊石によって重さを奪われない性質があり、もっぱら
         浮遊石を持ち運ぶ袋を作るために生産されている。
 
-* `Next <https://github.com/pasberth/Bellsend/blob/master/novel/2012-12-17.rst>`_
 
 
 
@@ -230,6 +229,10 @@
 
 Index of ベルセンド
 --------------------------------------------------------------------------------
+
+
+`Next <https://github.com/pasberth/Bellsend/blob/master/novel/2012-12-17.rst>`_
+
 
 * `1 <https://github.com/pasberth/Bellsend/blob/master/novel/2012-11-04.rst>`_
 * `2 <https://github.com/pasberth/Bellsend/blob/master/novel/2012-12-11.rst>`_
