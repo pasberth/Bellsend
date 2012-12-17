@@ -12,5 +12,5 @@ touch $BODYF
 touch $OUTF
 git add $BODYF
 git add $OUTF
-echo "\$TOOLS/build.rb $BODYF > $OUTF" >> build.sh
+echo $ID.rst >> $SRC/nove-list.txt
 echo $ID was created.
