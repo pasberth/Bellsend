@@ -1,8 +1,8 @@
 #!/usr/bin/env sh
 
 ID=$(date +%Y-%m-%d)
-BODYF=source/${ID}_body.rst
-OUTF=source/${ID}.rst
+BODYF=source/${ID}.rst
+OUTF=novel/${ID}.rst
 
 touch $BODYF
 touch $OUTF

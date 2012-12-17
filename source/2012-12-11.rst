@@ -1,6 +1,3 @@
-ベルセンド パスベルスの物語
-================================================================================
-
 ..
   | 　幸せな体験は悲しみの思い出になり、その思い出は記憶のかなたに消え去った。
   | 　1年前に感じていた友情を忘れてしまい、一生変わらないと信じた愛情を
@@ -135,18 +132,4 @@
 | 
 
 
-`Next <https://github.com/pasberth/Bellsend/blob/master/source/2012-12-14.rst>`_
-
-
-
-
-
-Index of ベルセンド
---------------------------------------------------------------------------------
-
-* `1 <https://github.com/pasberth/Bellsend/blob/master/source/2012-11-04.rst>`_
-* `2 <https://github.com/pasberth/Bellsend/blob/master/source/2012-12-11.rst>`_
-* `3 <https://github.com/pasberth/Bellsend/blob/master/source/2012-12-14.rst>`_
-* `4 <https://github.com/pasberth/Bellsend/blob/master/source/2012-12-15.rst>`_
-* `5 <https://github.com/pasberth/Bellsend/blob/master/source/2012-12-16.rst>`_
-* `6 <https://github.com/pasberth/Bellsend/blob/master/source/2012-12-17.rst>`_
+`Next <https://github.com/pasberth/Bellsend/blob/master/novel/2012-12-14.rst>`_
