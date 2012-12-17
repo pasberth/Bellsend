@@ -12,5 +12,5 @@ touch $BODYF
 touch $OUTF
 git add $BODYF
 git add $OUTF
-echo $ID.rst >> $SRC/nove-list.txt
+echo $ID.rst >> $SRC/novel-list.txt
 echo $ID was created.
