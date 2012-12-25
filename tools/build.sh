@@ -3,11 +3,7 @@ TOOLS=`dirname $0`
 SRC=`dirname $TOOLS`/source
 NOV=`dirname $TOOLS`/novel
 
-$TOOLS/novel-list.sh | $TOOLS/each_cons.sh -p 2 | while read SET; do
-  SET=($SET)
-  ID=${SET[0]}
-  NXT=${SET[1]}
-
+$TOOLS/novel-list.sh | each_cons -p -n 2 | while read ID && read NXT; do
   echo building $ID..
   $TOOLS/build.rb $SRC/$ID $NXT > $NOV/$ID
 done
