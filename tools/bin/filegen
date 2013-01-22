@@ -1,0 +1,13 @@
+#!/usr/bin/env ruby
+
+require 'date'
+
+IDS   = `novel-list`.lines.map(&:chomp).sort
+day4id = Date.today
+
+begin
+  id = `date -d @'#{day4id.to_time.to_i}' +%Y-%m-%d`.chomp
+  day4id = day4id.succ
+end until IDS.last < "#{id}.rst"
+
+`novel-list-append #{id}.rst`

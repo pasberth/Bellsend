@@ -1,7 +1,8 @@
+export PATH=`pwd`/tools/bin:$PATH
 export PATH=`pwd`/.vendor/enumerable.sh/bin:$PATH
 
 # Edit Latest
-alias el='$EDITOR $(./tools/latest.sh)'
+alias el='$EDITOR source/$(latest)'
 
 # Word Count to Latest
-alias wcl='./tools/wc $(./tools/latest.sh)'
+alias wcl='rmspaces source/$(latest) | wc -m'

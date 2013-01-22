@@ -1,3 +1,0 @@
-#!/usr/bin/env sh
-
-cat $* | perl -pe 's/(\| )|(  )|[\-\n]//g' | wc -m

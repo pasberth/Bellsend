@@ -1,0 +1,13 @@
+#!/usr/bin/env sh
+TOOLS=$(dirname $(dirname $0))
+SRC=`dirname $TOOLS`/source
+NOV=`dirname $TOOLS`/novel
+
+for id in $*
+do
+  touch $SRC/$id
+  git add $SRC/$id
+  touch $NOV/$id
+  git add $SRC/$id
+  echo $id >> $SRC/novel-list.txt
+done
