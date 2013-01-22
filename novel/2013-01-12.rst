@@ -7,11 +7,11 @@
 | 　サ・ナドナでのお仕事はすこし休憩し、
   そこで知り合った不思議な男性ノウグリスさんの
   お話を伺う事になった。
-  わたしは彼の天幕の中で、ローブを脱ぎ楽な姿勢で座って、
-  彼の提供する熱々の紅茶をちょびちょびすすり、
-  茶菓子を用意しに席を外した彼を待っていた。
+  わたしはかれの天幕の中で、ローブを脱ぎ楽な姿勢で座って、
+  かれの提供する熱々の紅茶をちょびちょびすすり、
+  茶菓子を用意しに席を外したかれを待っていた。
 | 　ノウグリスさんはすこし話しただけでも紳士な方で、
-  わたしには好印象だった。ただ、彼の女性的な名前は
+  わたしには好印象だった。ただ、かれの女性的な名前は
   わたしに最悪の印象をもたらした [#a]_ 。
 | 　ノウグリスさんが持ちかけてきた話は
   貨物自動車で荷物の運搬を手伝えるかもしれないという話だった。
@@ -153,11 +153,3 @@ Index of ベルセンド
 
 
 `Next <https://github.com/pasberth/Bellsend/blob/master/novel/2013-01-13.rst>`_
-
-
-* `1 <https://github.com/pasberth/Bellsend/blob/master/novel/2012-11-04.rst>`_
-* `2 <https://github.com/pasberth/Bellsend/blob/master/novel/2012-12-11.rst>`_
-* `3 <https://github.com/pasberth/Bellsend/blob/master/novel/2012-12-14.rst>`_
-* `4 <https://github.com/pasberth/Bellsend/blob/master/novel/2012-12-15.rst>`_
-* `5 <https://github.com/pasberth/Bellsend/blob/master/novel/2012-12-16.rst>`_
-* `6 <https://github.com/pasberth/Bellsend/blob/master/novel/2012-12-17.rst>`_

@@ -1,3 +1,5 @@
+export PATH=`pwd`/.vendor/enumerable.sh/bin:$PATH
+
 # Edit Latest
 alias el='$EDITOR $(./tools/latest.sh)'
 

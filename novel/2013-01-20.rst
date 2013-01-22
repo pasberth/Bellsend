@@ -203,11 +203,3 @@ Index of ベルセンド
 
 
 `Next <https://github.com/pasberth/Bellsend/blob/master/novel/2013-01-21.rst>`_
-
-
-* `1 <https://github.com/pasberth/Bellsend/blob/master/novel/2012-11-04.rst>`_
-* `2 <https://github.com/pasberth/Bellsend/blob/master/novel/2012-12-11.rst>`_
-* `3 <https://github.com/pasberth/Bellsend/blob/master/novel/2012-12-14.rst>`_
-* `4 <https://github.com/pasberth/Bellsend/blob/master/novel/2012-12-15.rst>`_
-* `5 <https://github.com/pasberth/Bellsend/blob/master/novel/2012-12-16.rst>`_
-* `6 <https://github.com/pasberth/Bellsend/blob/master/novel/2012-12-17.rst>`_

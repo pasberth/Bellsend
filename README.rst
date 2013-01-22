@@ -31,12 +31,7 @@ GitHub にレンダリング してもらいます。
 本編でもいろいろと設定の解説はしますが、もしもっと設定が知りたい方は
 `Paslands <http://pasberth.github.com/paslands/>`_ をご覧下さい。
 
-Index of ベルセンド
+小説はどこ？
 --------------------------------------------------------------------------------
-
-* `1 <https://github.com/pasberth/Bellsend/blob/master/novel/2012-11-04.rst>`_
-* `2 <https://github.com/pasberth/Bellsend/blob/master/novel/2012-12-11.rst>`_
-* `3 <https://github.com/pasberth/Bellsend/blob/master/novel/2012-12-14.rst>`_
-* `4 <https://github.com/pasberth/Bellsend/blob/master/novel/2012-12-15.rst>`_
-* `5 <https://github.com/pasberth/Bellsend/blob/master/novel/2012-12-16.rst>`_
-* `6 <https://github.com/pasberth/Bellsend/blob/master/novel/2012-12-17.rst>`_
+実際の小説は `novel ディレクトリ <https://github.com/pasberth/Bellsend/blob/master/novel>`_ に
+置いてあります。
