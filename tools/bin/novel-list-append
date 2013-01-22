@@ -8,6 +8,6 @@ do
   touch $SRC/$id
   git add $SRC/$id
   touch $NOV/$id
-  git add $SRC/$id
+  git add $NOV/$id
   echo $id >> $SRC/novel-list.txt
 done
