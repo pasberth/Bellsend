@@ -36,5 +36,5 @@ GitHub にレンダリング してもらいます。
 
 実際の小説は `novel ディレクトリ <https://github.com/pasberth/Bellsend/blob/master/novel>`_ に
 置いてあります。詳しくは
- `novel/README.rst <https://github.com/pasberth/Bellsend/blob/master/novel/README.rst>`_
+`novel/README.rst <https://github.com/pasberth/Bellsend/blob/master/novel/README.rst>`_
 をご覧ください。
