@@ -1,3 +1,6 @@
 [submodule ".vendor/enumerable.sh"]
 	path = .vendor/enumerable.sh
 	url = git@github.com:pasberth/enumerable.sh
+[submodule "novel"]
+	path = novel
+	url = git@github.com:pasberth/Bellsend.git
