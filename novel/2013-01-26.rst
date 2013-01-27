@@ -165,3 +165,5 @@
 Index of ベルセンド
 --------------------------------------------------------------------------------
 
+
+`Next <https://github.com/pasberth/Bellsend/blob/master/novel/2013-01-27.rst>`_
