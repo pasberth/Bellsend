@@ -5,14 +5,15 @@ require 'erb'
 require 'fileutils'
 
 TEMPLATE = ERB.new(File.read("#{File.dirname(__FILE__)}/../source/template.rst.erb"))
-PREFIX = ARGV.shift
+PREFIX = ARGV.shift || ENV['NOVPREFIX']
 SRCDIR = ARGV.shift || 'source'
 OUTDIR = ARGV.shift || 'novel'
-NOVCFG = YAML.load(File.read(File.join(SRCDIR, PREFIX, "config.yml")))
+CFGDIR = File.join(SRCDIR, PREFIX, "config")
+NOVLST = YAML.load(File.read(File.join(CFGDIR, "novel-list.yml")))
 
 FileUtils.mkdir_p OUTDIR
 
-(NOVCFG["novel-list"] + [nil]).each_cons(2).with_index do |(nov, nxt), i|
+(NOVLST + [nil]).each_cons(2).with_index do |(nov, nxt), i|
   nov = File.join PREFIX, nov
   nxt = File.join PREFIX, nxt if nxt
   scene = i.succ

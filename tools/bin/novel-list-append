@@ -2,12 +2,12 @@
 TOOLS=$(dirname $(dirname $0))
 SRC=`dirname $TOOLS`/source
 NOV=`dirname $TOOLS`/novel
+NOVPREFIX=${NOVPREFIX%%/}/
+NOVPREFIX=${NOVPREFIX##/}
 
 for id in $*
 do
-  touch $SRC/$id
-  git add $SRC/$id
-  touch $NOV/$id
-  git add $NOV/$id
-  echo $id >> $SRC/novel-list.txt
+  touch $SRC/$NOVPREFIX$id
+  git add $SRC/$NOVPREFIX$id
+  echo - $id >> $SRC/${NOVPREFIX}config/novel-list.yml
 done
