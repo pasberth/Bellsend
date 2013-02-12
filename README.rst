@@ -27,4 +27,5 @@ Index
     \- `21 <https://github.com/pasberth/Bellsend/blob/novel/chapter-01/act-01/2013-01-25.rst>`_
     \- `22 <https://github.com/pasberth/Bellsend/blob/novel/chapter-01/act-01/2013-01-26.rst>`_
     \- `23 <https://github.com/pasberth/Bellsend/blob/novel/chapter-01/act-01/2013-01-27.rst>`_
+    \- `24 <https://github.com/pasberth/Bellsend/blob/novel/chapter-01/act-01/2013-02-10.rst>`_
     )
