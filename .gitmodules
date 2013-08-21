@@ -4,3 +4,6 @@
 [submodule "novel"]
 	path = novel
 	url = git@github.com:pasberth/Bellsend.git
+[submodule "gh-pages"]
+	path = gh-pages
+	url = git@github.com:pasberth/Bellsend.git
