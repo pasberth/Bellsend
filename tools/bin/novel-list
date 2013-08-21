@@ -1,5 +1,0 @@
-#!/usr/bin/env sh
-TOOLS=$(dirname $(dirname $0))
-SRC=`dirname $TOOLS`/source
-NOVPREFIX=${NOVPREFIX%%/}/
-cat $SRC/${NOVPREFIX##/}config/novel-list.yml | sed -e 's/^- //'

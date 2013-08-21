@@ -1,2 +1,0 @@
-#!/usr/bin/env sh
-novel-list | tail -n 1
