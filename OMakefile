@@ -8,8 +8,5 @@ ALLSPHINXOPTS   = -d $(BUILDDIR)/doctrees $(SPHINXOPTS) source
 clean:
 	-rm -rf $(BUILDDIR)
 
-gh-pages: 
-	$(SPHINXBUILD) -b html $(ALLSPHINXOPTS) $(BUILDDIR)
-	@echo
-	@echo "Build finished. The HTML pages are in $(BUILDDIR)."
-
+gh-pages: README.rst source/conf.py $(glob source/*.rst) $(glob source/*/*.rst) $(glob source/*/*/*.rst)
+    $(SPHINXBUILD) -b html $(ALLSPHINXOPTS) $(BUILDDIR)
