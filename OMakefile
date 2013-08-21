@@ -3,10 +3,13 @@ SPHINXBUILD   = sphinx-build
 BUILDDIR      = gh-pages
 ALLSPHINXOPTS   = -d $(BUILDDIR)/doctrees $(SPHINXOPTS) source
 
-.PHONY: clean html
+.PHONY: clean deploy
 
 clean:
 	-rm -rf $(BUILDDIR)
 
 gh-pages: README.rst source/conf.py $(glob source/*.rst) $(glob source/*/*.rst) $(glob source/*/*/*.rst)
     $(SPHINXBUILD) -b html $(ALLSPHINXOPTS) $(BUILDDIR)
+
+deploy: gh-pages
+  cd $(BUILDDIR) ; git add -A ; git commit -m "build" ; git push origin gh-pages --quiet
