@@ -4,4 +4,5 @@
 .. toctree::
    :maxdepth: 2
 
+   characters
    act-01/index

@@ -16,4 +16,4 @@ pygments_style = 'sphinx'
 
 html_theme = 'haiku'
 
-html_static_path = []
+html_static_path = ['.static']
