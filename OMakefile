@@ -8,7 +8,7 @@ ALLSPHINXOPTS   = -d $(BUILDDIR)/doctrees $(SPHINXOPTS) source
 clean:
 	-rm -rf $(BUILDDIR)
 
-gh-pages: README.rst source/conf.py $(glob source/*.rst) $(glob source/*/*.rst) $(glob source/*/*/*.rst)
+gh-pages: README.rst source/conf.py $(glob source/*.rst) $(glob source/*/*.rst) $(glob source/*/*/*.rst) $(glob source/.static)
     $(SPHINXBUILD) -b html $(ALLSPHINXOPTS) $(BUILDDIR)
 
 deploy: gh-pages
