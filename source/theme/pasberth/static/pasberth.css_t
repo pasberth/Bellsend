@@ -1,0 +1,119 @@
+/******************************************************************************\
+ * Web site
+\******************************************************************************/
+
+body {
+  color: #505050;
+  background-color: white;
+  margin: 0;
+  padding: 0;
+}
+
+a {
+  color: #4183c4;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #4183c4;
+  text-decoration: underline;
+}
+
+/******************************************************************************\
+ * Code
+\******************************************************************************/
+
+pre {
+  font-family: "Source Code Pro", "Consolas", "Bitstream Vera Sans Mono", "Courier New";
+}
+
+.pre {
+  font-family: "Source Code Pro", "Consolas", "Bitstream Vera Sans Mono", "Courier New";
+}
+
+.linenos {
+  padding-right: 1em;
+}
+
+/******************************************************************************\
+ * Document
+\******************************************************************************/
+
+.document {
+  margin: 0;
+  padding: 0;
+}
+
+.documentwrapper {
+  margin: 0;
+  padding: 0;
+}
+
+.body {
+  margin: 0;
+  padding: 0;
+}
+
+.document h1 {
+    margin-top: 0;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: 2em;
+    padding: 1em;
+
+    font-size: 2.5em;
+    font-weight: bold;
+    font-family: "Optima";
+
+    border-bottom-style: solid;
+    border-bottom-width: 2px;
+}
+
+.document h2 {
+    margin: 0;
+    padding: 0;
+
+    font-size: 2em;
+    font-weight: normal;
+    font-family: "Gill Sans";
+}
+
+.document h3, h4, h5, h6 {
+    margin: 0;
+    padding: 0;
+
+    font-size: 1.5em;
+    font-weight: normal;
+    font-family: "Gill Sans";
+}
+
+.document .headerlink {
+  margin-left: 0.5em;
+  font-style: normal;
+  color: silver;
+}
+
+.section > p {
+  margin: 1em;
+}
+
+.section > div {
+  margin: 1em;
+}
+
+/******************************************************************************\
+ * Related
+\******************************************************************************/
+
+.related {
+  display: none;
+}
+
+/******************************************************************************\
+ * Footer
+\******************************************************************************/
+
+.footer {
+  margin-top: 2em;
+  text-align: center;
+}

@@ -6,7 +6,7 @@ ALLSPHINXOPTS   = -d $(BUILDDIR)/doctrees $(SPHINXOPTS) source
 .PHONY: clean deploy
 
 clean:
-	-rm -rf $(BUILDDIR)
+	rm -rf $(BUILDDIR)/*
 
 gh-pages: README.rst source/conf.py $(glob source/*.rst) $(glob source/*/*.rst) $(glob source/*/*/*.rst) $(glob source/.static)
     $(SPHINXBUILD) -b html $(ALLSPHINXOPTS) $(BUILDDIR)
