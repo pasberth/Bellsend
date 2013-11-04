@@ -24,5 +24,6 @@ html_short_title = html_title
 html_theme = "pasberth"
 html_theme_path = ['theme']
 html_theme_options = {
-  "nosidebar": True
+  "nosidebar": True,
+  "related": True,
 }

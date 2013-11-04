@@ -105,9 +105,39 @@ pre {
  * Related
 \******************************************************************************/
 
+{% if theme_related %}
+
+.related {
+  height: 1em;
+  margin: 0;
+  padding: 0;
+}
+
+.related h3 {
+  display: none;
+}
+
+.related ul {
+  height: 1em;
+  margin: 0;
+  padding: 0;
+}
+
+.related li {
+  height: 1em;
+  margin: 0 0.5em 0;
+  padding: 0;
+  float: right;
+  list-style-type: none;
+}
+
+{% else %}
+
 .related {
   display: none;
 }
+
+{% endif %}
 
 /******************************************************************************\
  * Footer
